@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "365884810939",
+    "project_id": "ai-travel-platform",
+    "storage_bucket": "ai-travel-platform.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365884810939:android:e7047a60b859b5ccd46b9e",
+        "android_client_info": {
+          "package_name": "com.jetty.ai_trip"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpK_CI5vlRvzWOcOWPGvCWbstdJU6SkvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
